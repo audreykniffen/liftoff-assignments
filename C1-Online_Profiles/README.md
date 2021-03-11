@@ -1,3 +1,4 @@
+[LC RESUME (1).pdf](https://github.com/audreykniffen/liftoff-assignments/files/6125310/LC.RESUME.1.pdf)
 # Online Profiles
 For this assignment you will need to upload your resume and provide links to your GitHub account and your LinkedIn account.
 
